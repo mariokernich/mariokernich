@@ -1,6 +1,6 @@
-<center>
-![Crazy Cat](./giphy.gif)
-</center>
+<p align="center">
+<img src="./giphy.gif" />
+</p>
 
 ### Hallo, ich bin Mario! 👋
 

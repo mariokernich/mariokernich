@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./giphy.gif" />
+<img src="./giphy.gif" style="width:200px;height:auto;" />
 </p>
 
 ### Hallo, ich bin Mario! 👋

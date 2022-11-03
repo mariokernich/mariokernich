@@ -1,3 +1,5 @@
+![Crazy Cat](./giphy.gif)
+
 ### Hallo, ich bin Mario! 👋
 
 Ich bin leidenschaftlicher Software Engineer und Webentwickler mit über zehn Jahren Erfahrung.

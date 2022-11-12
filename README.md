@@ -12,7 +12,7 @@ Von da an habe ich immer mehr Spaß daran gefunden, alles umzusetzen was mir in 
 
 Hauptberuflich arbeite ich bereits seit einigen Jahren als SAP/UI5 Entwickler bei der 🦢 SWAN GmbH in Giebelstadt. Hier entwickle ich Hauptächlich SAPUI5 Anwendungen und gelegentlich auch das Backend auf ABAP Basis. Zusätzlich bin ich auch noch als Ansprechpartner für neue Kollegen, Studenten und Azubis zuständig. Auch treibe ich mehrere interne Projekte vorran, die die Firma weiterbringt und Kosten einspart.
 
-In meiner Freizeit beschäftige ich mich mit Musik (DJING). 🎛️
+In meiner Freizeit beschäftige ich mich mit Musik/DJ (🎛️), Reisen (🌍) und natürlich Programmieren (👨‍💻).
 
 ### Was treibt mich an?
 

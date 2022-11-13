@@ -1,7 +1,6 @@
-<p align="center">
-<img width="250" height="250" src="./giphy.gif"/>
-<h1 align="center">👨‍💻 Mario Kernich</h1>
-</p>
+<img align="right" width="250" height="250" src="./giphy.gif" style="margin:20px"/>
+
+# 👨‍💻 Mario Kernich
 
 **`Software Engineer und Web Entwickler`**
 

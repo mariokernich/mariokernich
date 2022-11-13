@@ -18,7 +18,7 @@ Hauptberuflich arbeite ich bereits seit einigen Jahren als SAP/UI5 Entwickler be
 
 In meiner Freizeit beschäftige ich mich mit Musik/DJ (🎛️), Reisen (🌍) und natürlich Programmieren (💻).
 
----
+#
 
 ### Tech-Stack
 
@@ -41,7 +41,7 @@ In meiner Freizeit beschäftige ich mich mit Musik/DJ (🎛️), Reisen (🌍) u
 
 <br><br>
 
----
+#
 
 ### Was treibt mich an?
 

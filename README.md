@@ -5,8 +5,6 @@
 
 **`Software Engineer und Web Entwickler`**
 
-**`Software Engineer und Web Entwickler`**
-
 ### Hallo, ich bin Mario! 👋
 
 Ich bin leidenschaftlicher Software Engineer und Webentwickler mit über zehn Jahren Erfahrung.

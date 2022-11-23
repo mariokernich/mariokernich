@@ -4,7 +4,7 @@
 
 **`Software Engineer und Web Entwickler`**
 
-### Hallo, ich bin Mario! 👋
+### Hallo, ich bin Mario! <img src="./wave.gif" width="18px" height="18px" />
 
 Ich bin leidenschaftlicher Software Engineer und Webentwickler mit über zehn Jahren Erfahrung.
 

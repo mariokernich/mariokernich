@@ -14,7 +14,7 @@ Bereits in meiner Kindheit habe ich mich für die Welt der Computer begeistert. 
 
 Von da an habe ich immer mehr Spaß daran gefunden, alles umzusetzen was mir in den Sinn kam, oder von dem ich dachte, das könnte man besser machen. Nach einigen privaten Projekten habe ich eine selbstständige Nebentätigkeit als Webentwickler begonnen. Seitdem habe ich mich stetig weiterentwickelt und eine Ausbildung zum Fachinformatiker für Anwendungsentwicklung absolviert.
 
-Hauptberuflich arbeite ich bereits seit einigen Jahren als SAP/UI5 Entwickler bei der 🦢 SWAN GmbH in Giebelstadt. Hier entwickle ich Hauptächlich SAPUI5 Anwendungen und gelegentlich auch das Backend auf ABAP Basis. Zusätzlich bin ich auch noch als Ansprechpartner für neue Kollegen, Studenten und Azubis zuständig. Auch treibe ich mehrere interne Projekte vorran, die die Firma weiterbringt und Kosten einspart.
+Hauptberuflich arbeite ich bereits seit einigen Jahren als SAP/UI5 Entwickler bei der [🦢 SWAN GmbH](https://swan.de) in Giebelstadt. Hier entwickle ich Hauptächlich SAPUI5 Anwendungen und gelegentlich auch das Backend auf ABAP Basis. Zusätzlich bin ich auch noch als Ansprechpartner für neue Kollegen, Studenten und Azubis zuständig. Auch treibe ich mehrere interne Projekte vorran, die die Firma weiterbringt und Kosten einspart.
 
 In meiner Freizeit beschäftige ich mich mit Musik/DJ (🎛️), Reisen (🌍) und natürlich Programmieren (💻).
 

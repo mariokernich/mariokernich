@@ -53,8 +53,6 @@ Ich liebe es einfach, komplexe Probleme zu lösen und dabei neue Technologien zu
 
 ### Konakt
 
-[mail](mailto:contact@marioke.dev)
-
-[linkedin](https://www.linkedin.com/in/mario-kernich-370b071b5/)
-
-[website](https://marioke.dev)
+- [mail](mailto:contact@marioke.dev)
+- [linkedin](https://www.linkedin.com/in/mario-kernich-370b071b5/)
+- [website](https://marioke.dev)

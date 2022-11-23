@@ -1,10 +1,10 @@
-<p align="center">
+<div style="text-align: center;">
 
 # 👨‍💻 Mario Kernich
 
 **`Software Engineer und Web Entwickler`**
 
-</p>
+</div>
 
 ### Hallo, ich bin Mario! 👋
 
@@ -21,7 +21,7 @@ Hauptberuflich arbeite ich bereits seit einigen Jahren als SAP/UI5 Entwickler be
 In meiner Freizeit beschäftige ich mich mit Musik/DJ (🎛️), Reisen (🌍) und natürlich Programmieren (💻).
 
 <details>
-  <summary>Aufnahmen von mir während der Arbeit</summary>
+  <summary>📸 Aufnahmen von mir während der Arbeit</summary>
   
   ![HackerCat](./giphy.gif)
 </details>

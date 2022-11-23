@@ -1,10 +1,10 @@
-<div style="text-align: center;">
+<center>
 
 # 👨‍💻 Mario Kernich
 
 **`Software Engineer und Web Entwickler`**
 
-</div>
+</center>
 
 ### Hallo, ich bin Mario! 👋
 

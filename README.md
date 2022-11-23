@@ -1,10 +1,12 @@
-<img align="right" width="250" height="250" src="./giphy.gif" style="margin:20px"/>
+<p align="center">
 
 # 👨‍💻 Mario Kernich
 
 **`Software Engineer und Web Entwickler`**
 
-### Hallo, ich bin Mario! <img src="./wave.gif" width="22px" height="22px" />
+</p>
+
+### Hallo, ich bin Mario! 👋
 
 Ich bin leidenschaftlicher Software Engineer und Webentwickler mit über zehn Jahren Erfahrung.
 
@@ -17,6 +19,12 @@ Von da an habe ich immer mehr Spaß daran gefunden, alles umzusetzen was mir in 
 Hauptberuflich arbeite ich bereits seit einigen Jahren als SAP/UI5 Entwickler bei der [🦢 SWAN GmbH](https://swan.de) in Giebelstadt. Hier entwickle ich Hauptächlich SAPUI5 Anwendungen und gelegentlich auch das Backend auf ABAP Basis. Zusätzlich bin ich auch noch als Ansprechpartner für neue Kollegen, Studenten und Azubis zuständig. Auch treibe ich mehrere interne Projekte vorran, die die Firma weiterbringt und Kosten einspart.
 
 In meiner Freizeit beschäftige ich mich mit Musik/DJ (🎛️), Reisen (🌍) und natürlich Programmieren (💻).
+
+<details>
+  <summary>Aufnahmen von mir während der Arbeit</summary>
+  
+  ![HackerCat](./giphy.gif)
+</details>
 
 #
 

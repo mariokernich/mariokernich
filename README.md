@@ -57,7 +57,7 @@ In meiner Freizeit beschäftige ich mich mit Musik/DJ (🎛️), Reisen (🌍) u
 
 ### Was treibt mich an?
 
-Steve Jobs sagte einmal:
+[Steve Jobs](https://de.wikipedia.org/wiki/Steve_Jobs) sagte einmal:
 
 > The only way to do great work is to **love** what you do.
 

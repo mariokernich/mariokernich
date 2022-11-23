@@ -50,3 +50,11 @@ Steve Jobs sagte einmal:
 > The only way to do great work is to **love** what you do.
 
 Ich liebe es einfach, komplexe Probleme zu lösen und dabei neue Technologien zu entdecken.
+
+### Konakt
+
+[mail](mailto:contact@marioke.dev)
+
+[linkedin](https://www.linkedin.com/in/mario-kernich-370b071b5/)
+
+[website](https://marioke.dev)

@@ -1,10 +1,7 @@
-<center>
-
-# 👨‍💻 Mario Kernich
-
-**`Software Engineer und Web Entwickler`**
-
-</center>
+<div align="center">
+<h1>👨‍💻 Mario Kernich</h1>
+<b>Software Engineer und Web Entwickler</b>
+</div>
 
 ### Hallo, ich bin Mario! 👋
 

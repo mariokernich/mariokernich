@@ -41,7 +41,7 @@ In meiner Freizeit beschäftige ich mich mit Musik/DJ (🎛️), Reisen (🌍) u
 
 ### Environments
 
-<div style="overflow:hidden;min-height:1px">
+<div style="overflow:hidden;min-height:1px;background-color:#fff;">
 <img align="left" alt="Apple" width="40px" style="padding-right:2px;padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />   
 <img align="left" alt="Linux" width="40px" style="padding-right:2px;padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="vscode" width="40px" style="padding-right:2px;padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />

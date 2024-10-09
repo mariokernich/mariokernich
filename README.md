@@ -1,5 +1,5 @@
 <div align="center">
-<h1>👨‍💻 Mario Kernich</h1>
+<h1>&#60;h1&#62;👨‍💻 Mario Kernich&#60;/h1&#62;</h1>
 <b>Software Engineer und Web Entwickler</b>
 </div>
 

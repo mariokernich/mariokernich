@@ -65,4 +65,4 @@ Ich liebe es einfach, komplexe Probleme zu lösen und dabei neue Technologien zu
 
 ### Konakt
 
-📫 [E-Mail senden](mailto:contact@marioke.dev) ・ 💬 [WhatsApp starten](https://wa.me/%2B4915110573779)・ 🔗 [Webseite](https://marioke.dev) ・ 🔗 [Linkedin](https://www.linkedin.com/in/mario-kernich-370b071b5/) ・ 🔗 [Xing](https://www.xing.com/profile/Mario_Kernich/cv)
+📫 [E-Mail senden](mailto:mario@kernich.de) ・ 💬 [WhatsApp starten](https://wa.me/%2B4915110573779)・ 🔗 [Webseite](https://kernich.de) ・ 🔗 [Linkedin](https://www.linkedin.com/in/mario-kernich-370b071b5/) ・ 🔗 [Xing](https://www.xing.com/profile/Mario_Kernich/cv)

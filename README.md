@@ -35,32 +35,6 @@ Outside of coding, I enjoy:
 
 #
 
-### Tech-Stack
-
-<img align="left" alt="WordPress" width="40px" style="padding-right:2px;margin-bottom:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />     
-<img align="left" alt="PHP" width="40px" style="padding-right:2px;margin-bottom:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="MySQL" width="40px" style="padding-right:2px;margin-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="TypeScript" width="40px" style="padding-right:2px;margin-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="JavaScript" width="40px" style="padding-right:2px;margin-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="HTML" width="40px" style="padding-right:2px;margin-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="40px" style="padding-right:2px;margin-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="NodeJS" width="40px" style="padding-right:2px;margin-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="CSharp" width="40px" style="padding-right:2px;margin-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Bash" width="40px" style="padding-right:2px;margin-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-
-<br>
-
-### Environments
-
-<img align="left" alt="Apple" width="40px" style="padding-right:2px;padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />   
-<img align="left" alt="Linux" width="40px" style="padding-right:2px;padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="vscode" width="40px" style="padding-right:2px;padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="PHPStorm" width="40px" style="padding-right:2px;padding-bottom:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" />
-<img align="left" alt="GitHub" width="40px" style="padding-right:2px;padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Docker" width="40px" style="padding-right:2px;padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
-<br>
-
 ### What drives me?
 
 [Steve Jobs](https://de.wikipedia.org/wiki/Steve_Jobs) once said:

@@ -1,24 +1,34 @@
 <div align="center">
 <h1>&#60;h1&#62;👨‍💻 Mario Kernich&#60;/h1&#62;</h1>
-<b>Software Engineer und Web Entwickler</b>
+<b>SAP Technology Expert - UI5, Fiori, SAP BTP, ABAP RAP, AI & Cloud Automation</b>
 </div>
 
-### Hallo, ich bin Mario! 👋
+## Hi there! 👋
+I am a highly skilled **Senior SAP Developer** with a strong focus on **SAP UI5, Fiori, SAP BTP, and ABAP RAP**, combined with deep expertise in modern web technologies like **TypeScript** and **cloud-based architectures**.
 
-Ich bin leidenschaftlicher Software Engineer und Webentwickler mit über zehn Jahren Erfahrung.
+### 🚀 About Me
+With years of experience in SAP development, I specialize in **building scalable, high-performance enterprise solutions** that drive digital transformation.
 
-### Mehr über mich
+At **[🦢 SWAN GmbH](https://swan.de)**, I am responsible for **both project implementation and product development**, ensuring seamless integration of innovative SAP solutions. Additionally, I actively contribute to knowledge transfer within the company by mentoring trainees, conducting training sessions, and fostering best practices in SAP development.
 
-Bereits in meiner Kindheit habe ich mich für die Welt der Computer begeistert. Angefangen hatte alles mit einem CD-ROM Autostart Programm, dass mich faszinierte. Das wollte ich unbedingt auch können. So begann ich mit der Programmierung und lernte die Grundlagen der ersten Programmiersprache.
+Beyond my full-time role, I also operate as a **freelance software developer**, delivering **tailored web and backend solutions** for businesses seeking modern, automated, and **AI-driven technology stacks**.
 
-Von da an habe ich immer mehr Spaß daran gefunden, alles umzusetzen was mir in den Sinn kam, oder von dem ich dachte, das könnte man besser machen. Nach einigen privaten Projekten habe ich eine selbstständige Nebentätigkeit als Webentwickler begonnen. Seitdem habe ich mich stetig weiterentwickelt und eine Ausbildung zum Fachinformatiker für Anwendungsentwicklung absolviert.
+🔗 Explore my work at **[kernich.de](https://kernich.de)**
 
-Hauptberuflich arbeite ich bereits seit einigen Jahren als SAP/UI5 Entwickler bei der [🦢 SWAN GmbH](https://swan.de) in Giebelstadt. Hier entwickle ich Hauptächlich SAPUI5 Anwendungen und gelegentlich auch das Backend auf ABAP Basis. Zusätzlich bin ich auch noch als Ansprechpartner für neue Kollegen, Studenten und Azubis zuständig. Auch treibe ich mehrere interne Projekte vorran, die die Firma weiterbringt und Kosten einspart.
+### 🔥 My Tech Stack
+- **SAP Technologies**: UI5, Fiori, BTP, ABAP RAP
+- **Web Development**: TypeScript, Node.js, REST APIs
+- **Cloud & Automation**: AI-driven solutions, CI/CD, Docker
+- **Mentoring & Knowledge Sharing**
 
-In meiner Freizeit beschäftige ich mich mit Musik/DJ (🎛️), Reisen (🌍) und natürlich Programmieren (💻).
+### 🌍 Beyond Work
+Outside of coding, I enjoy:
+- 🎛️ **Music & DJing**
+- 🌍 **Traveling**
+- 💡 **Exploring new tech trends**
 
 <details>
-  <summary>📸 Aufnahmen von mir während der Arbeit</summary>
+  <summary>📸 Recordings of me during work</summary>
   
   ![HackerCat](./giphy.gif)
 </details>
@@ -40,8 +50,6 @@ In meiner Freizeit beschäftige ich mich mit Musik/DJ (🎛️), Reisen (🌍) u
 
 <br>
 
-#
-
 ### Environments
 
 <img align="left" alt="Apple" width="40px" style="padding-right:2px;padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />   
@@ -53,16 +61,14 @@ In meiner Freizeit beschäftige ich mich mit Musik/DJ (🎛️), Reisen (🌍) u
 
 <br>
 
-#
+### What drives me?
 
-### Was treibt mich an?
-
-[Steve Jobs](https://de.wikipedia.org/wiki/Steve_Jobs) sagte einmal:
+[Steve Jobs](https://de.wikipedia.org/wiki/Steve_Jobs) once said:
 
 > The only way to do great work is to **love** what you do.
 
-Ich liebe es einfach, komplexe Probleme zu lösen und dabei neue Technologien zu entdecken.
+I simply love solving complex problems while discovering new technologies.
 
-### Konakt
+### Conakt
 
-📫 [E-Mail senden](mailto:mario@kernich.de) ・ 💬 [WhatsApp starten](https://wa.me/%2B4915110573779)・ 🔗 [Webseite](https://kernich.de) ・ 🔗 [Linkedin](https://www.linkedin.com/in/mario-kernich-370b071b5/) ・ 🔗 [Xing](https://www.xing.com/profile/Mario_Kernich/cv)
+📫 [Send mail](mailto:mario@kernich.de) ・ 💬 [WhatsApp](https://wa.me/%2B4915110573779)・ 🔗 [Website](https://kernich.de) ・ 🔗 [Linkedin](https://www.linkedin.com/in/mario-kernich-370b071b5/) ・ 🔗 [Xing](https://www.xing.com/profile/Mario_Kernich/cv)

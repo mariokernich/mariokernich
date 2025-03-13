@@ -43,6 +43,6 @@ Outside of coding, I enjoy:
 
 I simply love solving complex problems while discovering new technologies.
 
-### Conakt
+### Contact
 
-📫 [Send mail](mailto:mario@kernich.de) ・ 💬 [WhatsApp](https://wa.me/%2B4915110573779)・ 🔗 [Website](https://kernich.de) ・ 🔗 [Linkedin](https://www.linkedin.com/in/mario-kernich-370b071b5/) ・ 🔗 [Xing](https://www.xing.com/profile/Mario_Kernich/cv)
+📫 [Send mail](mailto:mario@kernich.de) ・ 💬 [WhatsApp](https://wa.me/%2B4915110573779)・ 🔗 [Website](https://kernich.de) ・ 🔗 [Linkedin](https://www.linkedin.com/in/mario-kernich-370b071b5/)

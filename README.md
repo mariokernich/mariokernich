@@ -15,11 +15,12 @@ Beyond my full-time role, I also operate as a **freelance software developer**, 
 
 🔗 Explore my work at **[kernich.de](https://kernich.de)**
 
-### 🔥 My Tech Stack
-- **SAP Technologies**: UI5, Fiori, BTP, ABAP RAP
-- **Web Development**: TypeScript, Node.js, REST APIs
-- **Cloud & Automation**: AI-driven solutions, CI/CD, Docker
-- **Mentoring & Knowledge Sharing**
+### Presentations
+- **ABAPConf 2025 Hamburg**: [Automated documentation with AI and n8n for SAP packages](https://www.youtube.com/watch?v=plwEIa8PaaA)
+
+### UI5 Community projects
+- **UI5 Font Awesome Lib**: [https://github.com/ui5-community/ui5-fontawesome-lib](https://github.com/ui5-community/ui5-fontawesome-lib)
+- **UI5 Icon Explorer**: [https://github.com/ui5-community/ui5-icon-explorer](https://github.com/ui5-community/ui5-icon-explorer)
 
 ### 🌍 Beyond Work
 Outside of coding, I enjoy:

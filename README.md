@@ -15,7 +15,8 @@ Beyond my full-time role, I also operate as a **freelance software developer**, 
 
 🔗 Explore my work at **[kernich.de](https://kernich.de)**
 
-### Presentations
+### Talks
+- **SAP Intelligence Event 2026 Amsterdam**: [Automatically translate texts of development objects with AI and n8n](https://www.youtube.com/watch?v=lKVTvVKY0fw&t=27808s)
 - **ABAPConf 2025 Hamburg**: [Automated documentation with AI and n8n for SAP packages](https://www.youtube.com/watch?v=plwEIa8PaaA)
 
 ### UI5 Community projects

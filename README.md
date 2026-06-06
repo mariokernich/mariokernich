@@ -17,6 +17,7 @@ Beyond my full-time role, I also operate as a **freelance software developer**, 
 
 ### Talks
 - **SAP Intelligence Event 2026 Amsterdam**: [Automatically translate texts of development objects with AI and n8n](https://www.youtube.com/watch?v=lKVTvVKY0fw&t=27808s)
+- **UI5ers Live – November 2025**: Introducing new UI5 Font Awesome Library
 - **ABAPConf 2025 Hamburg**: [Automated documentation with AI and n8n for SAP packages](https://www.youtube.com/watch?v=plwEIa8PaaA)
 
 ### UI5 Community projects

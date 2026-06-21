@@ -1,7 +1,4 @@
-<div align="center">
-<h1>WRITE: / &#60;h1&#62;👨‍💻 Mario Kernich&#60;/h1&#62;</h1>
-<b>SAP Technology Expert - UI5, Fiori, SAP BTP, ABAP, RAP and AI</b>
-</div>
+# WRITE: / &#60;h1&#62;👨‍💻 Mario Kernich&#60;/h1&#62;</h1>
 
 ## Hi there! 👋
 I'm a Technology Manager at **[🦢 SWAN GmbH](https://swan.de)**, working primarily with the SAP stack — including SAP UI5, Fiori, ABAP, BTP, AI, RAP and EWM — alongside modern web technologies such as TypeScript and cloud-based architectures.
@@ -13,9 +10,9 @@ Outside of my main focus, I like to take things apart and understand how they wo
 🔗 Visit my blog **[kernich.de](https://kernich.de)**
 
 ### Talks
-- **SAP Intelligence Event 2026 Amsterdam**: [Automatically translate texts of development objects with AI and n8n](https://www.youtube.com/watch?v=lKVTvVKY0fw&t=27808s)
-- **UI5ers Live – November 2025**: Introducing new UI5 Font Awesome Library
-- **ABAPConf 2025 Hamburg**: [Automated documentation with AI and n8n for SAP packages](https://www.youtube.com/watch?v=plwEIa8PaaA)
+- **SAP Intelligence Event - March 2026 - Amsterdam**: [Automatically translate texts of development objects with AI and n8n](https://www.youtube.com/watch?v=lKVTvVKY0fw&t=27808s)
+- **UI5ers Live – November 2025 - Remote**: Introducing new UI5 Font Awesome Library
+- **ABAPConf - June - 2025 Hamburg**: [Automated documentation with AI and n8n for SAP packages](https://www.youtube.com/watch?v=plwEIa8PaaA)
 
 ### UI5 Community projects
 - **Fiori Plugin Generator**: [https://github.com/ui5-community/generator-ui5-ts-flp-plugin](https://github.com/ui5-community/generator-ui5-ts-flp-plugin)

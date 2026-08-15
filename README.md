@@ -17,6 +17,7 @@ Outside of my main focus, I like to take things apart and understand how they wo
 - **ABAPConf - June - 2025 Hamburg**: [Automated documentation with AI and n8n for SAP packages](https://www.youtube.com/watch?v=plwEIa8PaaA)
 
 ### UI5 Community projects
+- **Touch Control Library**: [https://github.com/mariokernich/ui5-touch-controls](https://github.com/mariokernich/ui5-touch-controls)
 - **Fiori Plugin Generator**: [https://github.com/ui5-community/generator-ui5-ts-flp-plugin](https://github.com/ui5-community/generator-ui5-ts-flp-plugin)
 - **UI5 Font Awesome Lib**: [https://github.com/ui5-community/ui5-fontawesome-lib](https://github.com/ui5-community/ui5-fontawesome-lib)
 - **UI5 Icon Explorer**: [https://github.com/ui5-community/ui5-icon-explorer](https://github.com/ui5-community/ui5-icon-explorer)

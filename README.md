@@ -10,17 +10,23 @@ Outside of my main focus, I like to take things apart and understand how they wo
 🔗 Visit my blog **[kernich.de](https://kernich.de)**
 
 ### Talks
-- **UI5ers Live - August 2026 - Remote**: [New Generator for Fiori Launchpad Plugins](https://www.youtube.com/live/FIFtvnDJRPo)
-- **ABAPConf - June - 2026 Mannheim**: [Building Custom CDS Views with Unmanaged Queries in ABAP RAP](https://www.youtube.com/live/sntfpAJa4C4?si=1mD-0bhLo50ZVU9_&t=22503)
-- **SAP Intelligence Event - March 2026 - Amsterdam**: [Automatically translate texts of development objects with AI and n8n](https://www.youtube.com/watch?v=lKVTvVKY0fw&t=27808s)
-- **UI5ers Live – November 2025 - Remote**: Introducing new UI5 Font Awesome Library
-- **ABAPConf - June - 2025 Hamburg**: [Automated documentation with AI and n8n for SAP packages](https://www.youtube.com/watch?v=plwEIa8PaaA)
+
+| Platform | Time | Location | Topic | Resources |
+|---|---|---|---|---|
+| UI5ers Live | August 2026 | Remote | New Generator for Fiori Launchpad Plugins | [Video](https://www.youtube.com/live/FIFtvnDJRPo) [Presentation](https://github.com/mariokernich/ui5ers-live-august-2026/releases/download/1.0.0/Presentation.pdf) |
+| ABAPConf | June 2026 | Mannheim | Building Custom CDS Views with Unmanaged Queries in ABAP RAP | [Video](https://www.youtube.com/live/sntfpAJa4C4?si=1mD-0bhLo50ZVU9_&t=22503) |
+| SAP Intelligence Event | March 2026 | Amsterdam | Automatically translate texts of development objects with AI and n8n | [Video](https://www.youtube.com/watch?v=lKVTvVKY0fw&t=27808s) |
+| UI5ers Live | November 2025 | Remote | Introducing new UI5 Font Awesome Library | — |
+| ABAPConf | June 2025 | Hamburg | Automated documentation with AI and n8n for SAP packages | [Video](https://www.youtube.com/watch?v=plwEIa8PaaA) |
 
 ### UI5 Community projects
-- **Touch Control Library**: [https://github.com/mariokernich/ui5-touch-controls](https://github.com/mariokernich/ui5-touch-controls)
-- **Fiori Plugin Generator**: [https://github.com/ui5-community/generator-ui5-ts-flp-plugin](https://github.com/ui5-community/generator-ui5-ts-flp-plugin)
-- **UI5 Font Awesome Lib**: [https://github.com/ui5-community/ui5-fontawesome-lib](https://github.com/ui5-community/ui5-fontawesome-lib)
-- **UI5 Icon Explorer**: [https://github.com/ui5-community/ui5-icon-explorer](https://github.com/ui5-community/ui5-icon-explorer)
+
+| Project | Description |
+|---|---|
+| [ui5-touch-controls](https://github.com/mariokernich/ui5-touch-controls) | Standard UI5 controls, rebuilt for touch — plus the ones sap.m is missing | 
+| [generator-ui5-ts-flp-plugin](https://github.com/ui5-community/generator-ui5-ts-flp-plugin) | Generator for Fiori Launchpad Plugins using TypeScript and Extension API with Fallback option for old UI5 version |
+| [ui5-fontawesome-lib](https://github.com/ui5-community/ui5-fontawesome-lib) | Extend UI5 with industry standard icon library Font Awesome |
+| [ui5-icon-explorer](https://github.com/ui5-community/ui5-icon-explorer) | Better Version of Icon Explorer including Front Awesome icons |
 
 ### 🌍 Beyond Work
 Outside of coding, I enjoy:
